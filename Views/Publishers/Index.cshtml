@@ -1,24 +1,24 @@
 ﻿@{
-    ViewData["Title"] = "Book Categories List";
+    ViewData["Title"] = "Publisher List";
 }
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
 
 <div class="container-fluid">
-    <h1 class="h3 mb-4 text-gray-800">Book Categories</h1>
+    <h1 class="h3 mb-4 text-gray-800">Publisher</h1>
 
     <div class="mb-3">
         <a asp-action="Create" class="btn btn-success">
-            <i class="fas fa-plus"></i> Add New Book Category
+            <i class="fas fa-plus"></i> Add New Publisher
         </a>
     </div>
 
     <div class="card shadow mb-4">
         <div class="card-header py-3">
-            <h6 class="m-0 font-weight-bold text-primary">List of Book Categories</h6>
+            <h6 class="m-0 font-weight-bold text-primary">List of Publisher</h6>
         </div>
         <div class="card-body">
-            <table class="table table-bordered" id="bookCategoriesTable" width="100%" cellspacing="0">
+            <table class="table table-bordered" id="publishersTable" width="100%" cellspacing="0">
                 <thead>
                     <tr>
                         <th>Name</th>
@@ -26,13 +26,13 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var bookCategory in Model)
+                    @foreach (var publisher in Model)
                     {
                         <tr>
-                            <td>@bookCategory.Name</td>
+                            <td>@publisher.Name</td>
                             <td>
-                                <a href="@Url.Action("Edit", "BookCategories", new { id = bookCategory.Id })" class="btn btn-warning btn-sm">Edit</a>
-                                <a href="@Url.Action("Delete", "BookCategories", new { id = bookCategory.Id })" class="btn btn-danger btn-sm">Delete</a>
+                                <a href="@Url.Action("Edit", "Publishers", new { id = publisher.Id })" class="btn btn-warning btn-sm">Edit</a>
+                                <a href="@Url.Action("Delete", "Publishers", new { id = publisher.Id })" class="btn btn-danger btn-sm">Delete</a>
                             </td>
                         </tr>
                     }
@@ -49,14 +49,14 @@
     @if (TempData["Success"] != null)
     {
         <text>
-                    toastr.success('@TempData["Success"]', 'Success');
+                        toastr.success('@TempData["Success"]', 'Success');
         </text>
     }
 
     @if (TempData["Error"] != null)
     {
         <text>
-                    toastr.error('@TempData["Error"]', 'Error');
+                        toastr.error('@TempData["Error"]', 'Error');
         </text>
     }
 </script>
