@@ -3,68 +3,16 @@
   "WorkspaceRootPath": "D:\\visual-studio\\lLibraryManagementWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\viewmodels\\author\\authoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:viewmodels\\author\\authoreditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\viewmodels\\author\\authorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:viewmodels\\author\\authorcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\viewmodels\\author\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:viewmodels\\author\\authorvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\models\\authorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:models\\authorcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\viewmodels\\book\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:viewmodels\\book\\bookeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\viewmodels\\book\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:viewmodels\\book\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\bookcategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\bookcategories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|d:\\visual-studio\\llibrarymanagementwebapp\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D48E82C7-5856-4611-BEB6-5131C638BC71}|lLibraryManagementWebApp.csproj|solutionrelative:views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,190 +22,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Delete.cshtml",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T21:34:45.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthorsController.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Controllers\\AuthorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Controllers\\AuthorsController.cs",
-              "RelativeToolTip": "Controllers\\AuthorsController.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAewH8AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T20:27:53.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Edit.cshtml",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Edit.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T21:33:55.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Create.cshtml",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Create.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T21:31:57.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Books\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Books\\Create.cshtml",
-              "RelativeToolTip": "Views\\Books\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T21:26:12.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Authors\\Index.cshtml",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Index.cshtml",
-              "RelativeToolTip": "Views\\Authors\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T21:24:04.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthorVM.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Author\\AuthorVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Author\\AuthorVM.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Author\\AuthorVM.cs",
-              "RelativeToolTip": "ViewModels\\Author\\AuthorVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:15:02.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthorCreateVM.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Author\\AuthorCreateVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Author\\AuthorCreateVM.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Author\\AuthorCreateVM.cs",
-              "RelativeToolTip": "ViewModels\\Author\\AuthorCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T20:30:08.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthorEditVM.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Author\\AuthorEditVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Author\\AuthorEditVM.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Author\\AuthorEditVM.cs",
-              "RelativeToolTip": "ViewModels\\Author\\AuthorEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T20:29:53.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthorContact.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Models\\AuthorContact.cs",
-              "RelativeDocumentMoniker": "Models\\AuthorContact.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Models\\AuthorContact.cs",
-              "RelativeToolTip": "Models\\AuthorContact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:12:18.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Author.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Models\\Author.cs",
-              "RelativeDocumentMoniker": "Models\\Author.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Models\\Author.cs",
-              "RelativeToolTip": "Models\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:10:22.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BookEditVM.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Book\\BookEditVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Book\\BookEditVM.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Book\\BookEditVM.cs",
-              "RelativeToolTip": "ViewModels\\Book\\BookEditVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:13:52.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Models\\Book.cs",
-              "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:15:25.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BookVM.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Book\\BookVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Book\\BookVM.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\ViewModels\\Book\\BookVM.cs",
-              "RelativeToolTip": "ViewModels\\Book\\BookVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T21:13:51.169Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -268,28 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-02T20:30:58.4Z",
+              "WhenOpened": "2025-05-02T22:36:58.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowGgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T20:27:56.768Z",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\BookCategories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookCategories\\Delete.cshtml",
+              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\BookCategories\\Delete.cshtml",
+              "RelativeToolTip": "Views\\BookCategories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T22:35:35.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Delete.cshtml",
+              "ToolTip": "D:\\visual-studio\\lLibraryManagementWebApp\\Views\\Authors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-02T22:35:33.021Z",
               "EditorCaption": ""
             }
           ]

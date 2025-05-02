@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Book Categories List";
+}
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+
+<div class="container-fluid">
+    <h1 class="h3 mb-4 text-gray-800">Book Categories</h1>
+
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-success">
+            <i class="fas fa-plus"></i> Add New Book Category
+        </a>
+    </div>
+
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">List of Book Categories</h6>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered" id="authorsTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var bookCategory in Model)
+                    {
+                        <tr>
+                            <td>@bookCategory.Name</td>
+                            <td>
+                                <a href="@Url.Action("Edit", "BookCategories", new { id = bookCategory.Id })" class="btn btn-warning btn-sm">Edit</a>
+                                <a href="@Url.Action("Delete", "BookCategories", new { id = bookCategory.Id })" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script>
+    @if (TempData["Success"] != null)
+    {
+        <text>
+                    toastr.success('@TempData["Success"]', 'Success');
+        </text>
+    }
+
+    @if (TempData["Error"] != null)
+    {
+        <text>
+                    toastr.error('@TempData["Error"]', 'Error');
+        </text>
+    }
+</script>
