@@ -1,0 +1,32 @@
+﻿@model Author
+
+@{
+    ViewData["Title"] = "Delete Author";
+}
+
+<div class="container-fluid">
+    <h1 class="h3 mb-4 text-gray-800">Delete Author</h1>
+
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Delete Author Confirmation</h6>
+        </div>
+        <div class="card-body">
+            <h5>Are you sure you want to delete this author?</h5>
+            <p><strong>Name:</strong> @Model.Name</p>
+            <p><strong>Surname:</strong> @Model.Surname</p>
+            <p><strong>Email:</strong> @Model.AuthorContact?.Email</p>
+            <p><strong>Phone:</strong> @Model.AuthorContact?.PhoneNumber</p>
+
+            <form asp-action="Delete" asp-controller="Authors" asp-route-id="@Model.Id" method="post">
+                <input type="hidden" asp-for="Id" />
+                <button type="submit" class="btn btn-danger">
+                    <i class="fas fa-trash-alt"></i> Delete
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="fas fa-arrow-left"></i> Cancel
+                </a>
+            </form>
+        </div>
+    </div>
+</div>
