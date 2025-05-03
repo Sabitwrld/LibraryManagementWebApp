@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Books List";
+}
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+
+<div class="container-fluid">
+    <h1 class="h3 mb-4 text-gray-800">Books</h1>
+
+    <div class="mb-3">
+        <a asp-action="Create" class="btn btn-success">
+            <i class="fas fa-plus"></i> Add New Book
+        </a>
+    </div>
+
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">List of Books</h6>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered" id="booksTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Category</th>
+                        <th>Publisher</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var book in Model)
+                    {
+                        <tr>
+                            <td>@book.Title</td>
+                            <td>@book.BookCategory.Name</td>
+                            <td>@book.Publisher.Name</td>
+                            <td>
+                                <a href="@Url.Action("Edit", "Books", new { id = book.Id })" class="btn btn-warning btn-sm">Edit</a>
+                                <a href="@Url.Action("Delete", "Books", new { id = book.Id })" class="btn btn-danger btn-sm">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+<script>
+    @if (TempData["Success"] != null)
+    {
+        <text>
+                toastr.success('@TempData["Success"]', 'Success');
+        </text>
+    }
+
+    @if (TempData["Error"] != null)
+    {
+        <text>
+                toastr.error('@TempData["Error"]', 'Error');
+        </text>
+    }
+</script>
