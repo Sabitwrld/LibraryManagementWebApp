@@ -7,6 +7,7 @@
     <title>@ViewData["Title"]</title>
 
     <link href="~/css/sb-admin-2.min.css" rel="stylesheet">
+    <link href="~/https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
     <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -37,23 +38,23 @@
 
             <li class="nav-item">
                 <a class="nav-link" asp-controller="BookCategories" asp-action="Index">
-                    <i class="fas fa-bookcategories"></i>
+                    <i class="fas fa-book"></i>
                     <span>Book Categories</span>
-                    <a class="nav-link" asp-controller="Books" asp-action="Index">
-                    <i class="fas fa-books"></i>
+                </a>
+                <a class="nav-link" asp-controller="Books" asp-action="Index">
+                    <i class="fas fa-book-open"></i>
                     <span>Books</span>
-                    </a>
-                    <a class="nav-link" asp-controller="Authors" asp-action="Index">
-                    <i class="fas fa-authors"></i>
+                </a>
+                <a class="nav-link" asp-controller="Authors" asp-action="Index">
+                    <i class="fas fa-user-edit"></i>
                     <span>Authors</span>
-                    </a>
-                    </a>
-                    <a class="nav-link" asp-controller="Publishers" asp-action="Index">
-                    <i class="fas fa-publishers"></i>
+                </a>
+                <a class="nav-link" asp-controller="Publishers" asp-action="Index">
+                    <i class="fas fa-building"></i>
                     <span>Publishers</span>
-                    </a>
                 </a>
             </li>
+
 
 
             <hr class="sidebar-divider d-none d-md-block">
